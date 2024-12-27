@@ -9,7 +9,7 @@ create table masini (
 );
 
 insert into masini values ('CS16ELA', 'Renault', 2024, 'negru', 3000);
-insert into masini values ('CS17ELA', 'Fiat', 2008, 'rosu', 130000);
-insert into masini values ('TM16ELA', 'Passat', 2010, 'gri', 200000);
+insert into masini values ('CS98BOC', 'Fiat', 2008, 'rosu', 130000);
+insert into masini values ('TM45FFF', 'Passat', 2010, 'gri', 200000);
 insert into masini values ('CS45BXD', 'Dacia Logan', 2007, 'auriu', 150000);
-insert into masini values ('CS69PLM', 'Porsche', 2024, 'creyon', 500);
+insert into masini values ('B911POR', 'Porsche', 2024, 'creyon', 500);
